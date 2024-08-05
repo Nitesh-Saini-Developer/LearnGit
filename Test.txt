@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my file
 This is my New Line
 This is another Line
+=======
+This is my file
+>>>>>>> aab31d7654a2e261a610446287a00966adc48eef
